@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu/dplava/v1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava/v1 http://dplava.lib.virginia.edu/dplava.xsd">
+    <dcterms:identifier>uva-lib:2552269</dcterms:identifier>
+    <dcterms:title>Sly and the Family Stone in concert</dcterms:title>
+    <dcterms:provenance>University of Virginia Libraries</dcterms:provenance>
+    <dcterms:creator>Skinner, David M., 1921-2009</dcterms:creator>
+    <dcterms:created>197u</dcterms:created>
+    <dcterms:identifier>RG-5/7/2.821</dcterms:identifier>
+    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:publisher>The Rector and Visitors of the University of Virginia</dcterms:publisher>
+    <dcterms:subject>Concerts</dcterms:subject>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:type>still image</dcterms:type>
+    <dcterms:isPartOf>University of Virginia Printing Services photograph file</dcterms:isPartOf>
+    <dcterms:spatial>United States, Virginia, Charlottesville</dcterms:spatial>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2552269/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2552269</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2552269/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

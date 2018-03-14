@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu/dplava/v1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava/v1 http://dplava.lib.virginia.edu/dplava.xsd">
+    <dcterms:identifier>uva-lib:2153008</dcterms:identifier>
+    <dcterms:title>Portrait of Bernard Taper and Pablo Casals</dcterms:title>
+    <dcterms:provenance>University of Virginia Libraries</dcterms:provenance>
+    <dcterms:creator>Kahn, Albert</dcterms:creator>
+    <dcterms:identifier>RG-30/1/10.011</dcterms:identifier>
+    <dcterms:description>publicity photo for Taper's Cellist in Exile, a biography of Casals</dcterms:description>
+    <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:subject>University of Virginia</dcterms:subject>
+    <dcterms:type>still image</dcterms:type>
+    <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
+    <dcterms:spatial>United States, Virginia, Charlottesville</dcterms:spatial>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2153008/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2153008</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2153008/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>
